@@ -1,6 +1,6 @@
-# Clustering-Approaches-ML-
+# Clustering Approaches
 
 Links: 
   
-    https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+    1.  https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
     
